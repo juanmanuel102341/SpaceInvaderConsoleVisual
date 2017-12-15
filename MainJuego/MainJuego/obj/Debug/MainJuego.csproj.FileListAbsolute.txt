@@ -1,0 +1,41 @@
+C:\Users\Juan Manuel\Desktop\image\programacion\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe.config
+C:\Users\Juan Manuel\Desktop\image\programacion\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\image\programacion\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\image\programacion\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.csprojResolveAssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\image\programacion\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\image\programacion\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe.config
+C:\Users\Juan Manuel\Desktop\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.csprojResolveAssemblyReference.cache
+F:\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe.config
+F:\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe
+F:\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.pdb
+F:\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.exe
+F:\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.pdb
+E:\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe.config
+E:\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.exe
+E:\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.pdb
+C:\Users\JuanManuel\Desktop\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.csprojResolveAssemblyReference.cache
+C:\Users\JuanManuel\Desktop\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe.config
+C:\Users\JuanManuel\Desktop\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe
+C:\Users\JuanManuel\Desktop\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.pdb
+C:\Users\JuanManuel\Desktop\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.exe
+C:\Users\JuanManuel\Desktop\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\juegosPropios\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe.config
+C:\Users\Juan Manuel\Desktop\juegosPropios\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\juegosPropios\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\juegosPropios\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\juegosPropios\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\juegosPropios\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.csprojResolveAssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\juegosPropios\visual\juegoFinal\MainJuego\MainJuego\bin\Debug\MainJuego.exe.config
+C:\Users\Juan Manuel\Desktop\juegosPropios\visual\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\juegosPropios\visual\juegoFinal\MainJuego\MainJuego\obj\Debug\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\bin\Debug\MainJuego.exe.config
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\obj\Debug\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\obj\Debug\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\bin\Debug\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\bin\Debug\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\obj\Debug\MainJuego.csprojResolveAssemblyReference.cache
