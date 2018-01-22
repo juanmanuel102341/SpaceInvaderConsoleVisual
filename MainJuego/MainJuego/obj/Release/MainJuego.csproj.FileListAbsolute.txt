@@ -1,0 +1,5 @@
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\bin\Release\MainJuego.exe.config
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\bin\Release\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\bin\Release\MainJuego.pdb
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\obj\Release\MainJuego.exe
+C:\Users\Juan Manuel\Desktop\portfolioJuegos\juegoFinal_space_invaders\MainJuego\MainJuego\obj\Release\MainJuego.pdb
